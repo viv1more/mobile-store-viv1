@@ -56,7 +56,7 @@ if($query)
 <body>
   <?php include_once('includes/header.php');?>
 
-    <!-- ::::::  Start  Main Container Section  ::::::  -->
+    <!-- ::::::  start  Main Container Section  ::::::  -->
     <main id="main-container" class="main-container m-t-30">
         <div class="container">
             <div class="row flex-column-reverse flex-lg-row">
